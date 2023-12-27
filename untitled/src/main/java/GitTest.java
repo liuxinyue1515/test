@@ -3,5 +3,6 @@ public class GitTest {
         System.out.println("新的master2");
         System.out.println("新的master1");
         System.out.println("新的test2");
+        System.out.println("push github");
     }
 }
