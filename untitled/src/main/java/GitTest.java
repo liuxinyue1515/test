@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("新的master1");
         System.out.println("新的test2");
         System.out.println("push again github");
+        System.out.println("pull github");
     }
 }
